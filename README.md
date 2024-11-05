@@ -109,13 +109,13 @@ if(NUM_LOOPS>=10)    {
 
 
 ## OUTPUT
-$ ./sem.o 
+### $ ./sem.o 
 ![Screenshot 2024-11-04 193242](https://github.com/user-attachments/assets/5a368211-da5c-47e7-98cf-b3bc9da4028b)
 
 
 
 
-$ ipcs
+### $ ipcs
 ![Screenshot 2024-11-04 193322](https://github.com/user-attachments/assets/22d53134-9f8d-4f57-843e-bde97068c06b)
 
 
